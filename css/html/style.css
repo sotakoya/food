@@ -31,6 +31,8 @@ body {
   .navbar-nav {
     position: fixed;
     right: 40px;
+    border-radius: 20px;
+    padding: 13px;
   }
 
 

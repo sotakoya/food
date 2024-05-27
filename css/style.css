@@ -66,9 +66,9 @@ html, body {
   border-radius: 30px;
 }
 
-.navbar-dark .navbar-toggler {
-color: rgba(255, 255, 255, 0) !important;
-border-color: rgba(255, 255, 255, 0) !important;
+.navbar-light .navbar-toggler {
+background-color: #fff;
+
 }
 
 .navbar-brand {
